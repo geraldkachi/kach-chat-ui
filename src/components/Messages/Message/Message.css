@@ -2,10 +2,9 @@
   background: #f3f3f3;
   border-radius: 20px;
   padding: 5px 20px;
-  color: white;
+  color: rgb(255, 255, 255);
   display: inline-block;
   max-width: 80%;
-  margin: 2px;
 }
 
 .messageText {
@@ -31,7 +30,7 @@
   display: flex;
   align-items: center;
   font-family: Helvetica;
-  color: #828282;
+  color: rgb(211, 211, 211);
   letter-spacing: 0.6px;
 }
 
